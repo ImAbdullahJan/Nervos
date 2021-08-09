@@ -11,4 +11,4 @@ Gitcoin hackathon - Create A Godwoken Account On The EVM Layer 2 Testnet
 https://explorer.nervos.org/aggron/address/ckt1qyqgj9ds5uvj8yexrnm6v88k4pj76g708tnqu69zcs
 
 - A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
-  ![deposit_screenshot](.\Layer_2_deposit_screenshot.GIF)
+  ![deposit_screenshot](./Layer_2_deposit_screenshot.GIF)
